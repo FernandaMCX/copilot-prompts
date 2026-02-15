@@ -94,3 +94,18 @@ Segurança e GRC seguem em alta devido a regulações e incidentes; **oportunida
 
 **Qual dessas carreiras te chamou mais atenção?**  
 Assim que você escolher, eu te encaminho para o **Agent 2**, que vai montar **um plano de estudos personalizado** considerando: suas **4h/semana**, seu nível (**começando do zero**), seu objetivo (**crescer na função atual**), sua preferência por **dados**, e seus interesses em **dados/IA/LGPD/cibersegurança**.
+
+Excelente escolha! 🎉  
+**Analista de Dados** combina demais com o que você gosta (resolver problemas), com sua experiência atual (análise de risco) e com seu interesse natural em dados e IA.
+
+Agora vou te passar para meu colega **especialista em Análise de Dados**.  
+Ele vai montar **um plano de estudos totalmente personalizado** para você — considerando:
+
+*   **Carreira escolhida:** Analista de Dados
+*   **Horas disponíveis:** 4h/semana
+*   **Experiência:** começando do zero
+*   **Objetivo:** crescer na função atual
+*   **Preferência de trabalho:** dados
+*   **Interesses:** dados, inteligência artificial, LGPD, cibersegurança
+
+👉 **Agent 2, seguindo para você!**
